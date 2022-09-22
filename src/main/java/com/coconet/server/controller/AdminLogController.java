@@ -48,7 +48,7 @@ public class AdminLogController {
         try {
             return readFileService.getUserLog("user_log.log", findUserEmail);
         } catch (IOException e) {
-            e.printStackTrace();
+            e.printStackTrace() ;
         }
         return null;
     }
