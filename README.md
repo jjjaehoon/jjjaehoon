@@ -2,7 +2,7 @@
 
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20JJH%20github%20!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-  안녕하세요! 신입 Java/Spring 백엔드 개발자입니다.
+  🚀 안녕하세요! Java/Spring 백엔드 개발자 취업 준비생입니다.
 
   <br/>
 
@@ -21,8 +21,8 @@
 
   <br/>
 
-  ## :pencil2: Blog
-
+  ## ✏️ Blog
+  
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjjaehoon)](https://github.com/eungyeole/velog-readme-stats)
 
   ## 🗄 GitHub Stats
