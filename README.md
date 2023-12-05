@@ -6,8 +6,9 @@
 <br/>
 <br/>
   
-####  :clipboard: Once I've Used 
-  
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+
 <br/>
 
 ### 📋 Languages
@@ -27,6 +28,9 @@
 
 ### 💻 IDEs
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
+<img src="https://img.shields.io/badge/DBeaver-4D4D4D?style=flat-square&logo=dbeaver&logoColor=white">
+
+</div>
 
 <br/>
 <br/>
