@@ -3,13 +3,7 @@
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20JJH%20github%20!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
   <h5> 🚀 안녕하세요! Java&Spring 백엔드 개발자 취업 준비생입니다. </h5>
-
-  <br/>
-  
   <h5> 개발과 관련된 것은 사소한 것도 공유하려고 하며 </h5>
-
-  <br/>
-  
   <h5> 개발을 위해서라면 다양한 방법으로 계속 시도하는 자세를 가지고 개발에 임하고 있습니다. </h5>
 
   <br/>
