@@ -1,8 +1,7 @@
 <div align="center">
 
-##  :wave: Welcome my github profile !
+###  :wave: Welcome my github profile !
 
-  
 <br/>
 <br/>
 
