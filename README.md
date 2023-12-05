@@ -1,4 +1,3 @@
-<div align="center"> 
 
 ####  :wave: Welcome my github profile !
 
@@ -40,4 +39,3 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjjaehoon)](https://github.com/eungyeole/velog-readme-stats)
 
-</div>
