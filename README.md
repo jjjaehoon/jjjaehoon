@@ -5,7 +5,7 @@
   <br/>
   <br/>
 
-  ## 🔨 Once I've used
+  ## 🔨 Tech Stack
 
   ![Java 17](https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white)
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
