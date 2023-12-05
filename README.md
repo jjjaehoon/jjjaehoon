@@ -3,12 +3,12 @@
 ####  :wave: Welcome my github profile !
 
   
- <br/>
- <br/>
+<br/>
+<br/>
   
 ####  :clipboard: Once I've Used 
   
- <br/>
+<br/>
  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -20,7 +20,8 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjjaehoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@jjjaehoon)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjjaehoon)](https://github.com/eungyeole/velog-readme-stats)
+
 </div>
