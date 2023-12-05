@@ -2,12 +2,15 @@
 
   ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20JJH%20github%20!&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-  🚀 안녕하세요! Java/Spring 백엔드 개발자 취업 준비생입니다.
+  🚀 안녕하세요! Java&Spring 백엔드 개발자 취업 준비생입니다.
 
-  🚀 안녕하세요! Java&Spring 백엔드 개발자 취업 준비생입니다. <br/>
-  개발과 관련된 것은 사소한 것도 공유하려고 하며 <br/>
-  개발을 위해서라면 다양한 방법으로 계속 시도해보고 <br/>
-  주변의 좋은 부분을 잘 흡수하는 능동적인 자세를 가지고 있습니다. <br/>
+  <br/>
+  
+  개발과 관련된 것은 사소한 것도 공유하려고 하며
+
+  <br/>
+  
+  개발을 위해서라면 다양한 방법으로 계속 시도하는 자세를 가지고 있습니다.
 
   <br/>
 
@@ -29,6 +32,8 @@
   ## ✏️ Blog
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjjaehoon)](https://github.com/eungyeole/velog-readme-stats)
+
+  <br/>
 
   ## 🗄 GitHub Stats
 
