@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jjjaehoon&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20JJH.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ###  :wave: Welcome my github profile !
 
