@@ -34,9 +34,11 @@
 <br/>
 
 <div align="center">
+  
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jjjaehoon)](https://github.com/eungyeole/velog-readme-stats)
 
 [![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjjaehoon&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
+
 </div>
 
 
