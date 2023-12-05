@@ -5,10 +5,8 @@
 <br/>
 <br/>
   
-## 🔨 Once I've used 🔨
+# 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
-
-<br/>
 
 ### 📋 Languages
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white)
