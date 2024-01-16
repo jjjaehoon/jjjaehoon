@@ -25,7 +25,7 @@
 
   ## ✏️ Blog
   
-  [![Velog's GitHub stats](https://velog.io/@jjjaehoon/posts)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats]](https://velog.io/@jjjaehoon/posts)
 
   <br/>
 
