@@ -25,7 +25,7 @@
 
   ## ✏️ Blog
   
-  [![Velog's GitHub stats]](https://velog.io/@jjjaehoon/posts)
+  [![My Velog](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@jjjaehoon/posts)
 
   <br/>
 
