@@ -23,9 +23,8 @@
 
   <br/>
 
-  ## ✏️ Blog
-  
-  📃[![My Velog](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@jjjaehoon/posts)
+  ## ✏️ Social
+  <a href="https://velog.io/@jjjaehoon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40jjjaehoon&count_bg=%2320C997&title_bg=%2320C997&icon=blogger.svg&icon_color=%23FFFFFF&title=Velog&edge_flat=false"/></a>
 
   <br/>
 
